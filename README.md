@@ -29,6 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [visite o projeto online](https://maxcanoas.github.io/nlw-setup)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/YOSYuec7qjEhSOceXNCp1m/Habits-(e)-(Community)?node-id=6%3A910>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
